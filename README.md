@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o João Gabriel! 👋
 
-<!--
-**j0aogabriel-dev/j0aogabriel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado em construir uma base sólida em programação e resolução de problemas.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 🎓 Cursando ADS (Análise e Desenvolvimento de Sistemas).
+- 💻 Atualmente aprofundando meus conhecimentos em **Java** e **C**.
+- 🌱 Focado em aprender lógica de programação, estruturas de dados e fundamentos de sistemas.
+- 🎯 Objetivo: Me tornar um desenvolvedor Backend sólido e eficiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white )
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white )
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white )
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white )
+
+## 📊 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=j0aogabriel-dev&show_icons=true&theme=radical )
+
+---
+*“O sucesso é a soma de pequenos esforços repetidos dia após dia.”*
