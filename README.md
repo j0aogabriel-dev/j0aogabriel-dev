@@ -14,11 +14,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado em constru
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white )
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white )
 
-## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=j0aogabriel-dev&show_icons=true&theme=radical&hide_border=false )
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=j0aogabriel-dev&layout=compact&theme=radical )
-
 *“O sucesso é a soma de pequenos esforços repetidos dia após dia.”*
 
 <p align="center">
