@@ -21,5 +21,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado em constru
 *“O sucesso é a soma de pequenos esforços repetidos dia após dia.”*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MaySiqueira/MaySiqueira/master/assets/pacman.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
+
