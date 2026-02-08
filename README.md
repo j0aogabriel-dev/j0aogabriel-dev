@@ -17,5 +17,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado em constru
 ## 📊 Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=j0aogabriel-dev&show_icons=true&theme=radical )
 
+## 🕹️ My GitHub Contributions
+![Pac-Man Snake](https://raw.githubusercontent.com/j0aogabriel-dev/j0aogabriel-dev/output/github-contribution-grid-snake.svg )
+
 ---
 *“O sucesso é a soma de pequenos esforços repetidos dia após dia.”*
